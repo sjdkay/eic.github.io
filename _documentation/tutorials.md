@@ -8,7 +8,7 @@ layout: default
 {% include layouts/title.md %}
 
 #### Future tutorials schedule: 
-* "Analysis and working with the simulation output", Stephen Kay, 28th February 2025, 08:30-11:30 Eastern (GMT-5)
+* "Inclusive Kinematics Reconstruction Tutorial", Stephen Maple, 7th April 2025, 09:30-11:30 Eastern Daylight Time (GMT-4)
 
 #### Please join the [Mattermost Software Tutorials](https://chat.epic-eic.org/main/channels/software-tutorials) channel for updates/announcements and questions about tutorials.
 
